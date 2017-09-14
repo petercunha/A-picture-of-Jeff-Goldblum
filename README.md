@@ -1,2 +1,3 @@
-# A-picture-of-Jeff-Goldblum
-This repository is a picture of Jeff Goldblum
+## A Picture of Jeff Goldblum
+
+![Jeff](https://raw.githubusercontent.com/petercunha/A-picture-of-Jeff-Goldblum/master/jeff.jpg)
